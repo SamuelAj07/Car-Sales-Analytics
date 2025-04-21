@@ -4,6 +4,15 @@
 # Table of Content
 
 [Project Overview](#project-overview)
+[Data Sources](#data-sources)
+[Tool Used](#tool-used)
+[Data Cleaning/Preparation](#data-cleaning/preparation)
+[Data Overview](#data-overview) 
+[Tabular Overview](#tabular-overview) 
+[Analysis Visualisation](#analysis-visualisation)
+[Exploratory Data Analysis](#exploratory-data-analysis)
+[Key Findings](#key-findings)
+[Recommendations](#recommendations)
 
 ---
 
@@ -19,11 +28,11 @@ The primary dataset used for this analysis is a Research site "Kaggle.com" and c
 
 1. Excel
 - Data cleaning and structuring.
-  - [View RawData here](
-  - [View CleansedData here](
+  - [View RawData here](https://ibb.co/M58p5ZCP)
+  - [View CleansedData here](https://ibb.co/NnSmpnYw)
 - Exploring and Analyzing trends in car sales. 
 - Data Visualization
-  - [View Visuals Here](
+  - [View Visuals Here](https://ibb.co/DfqQVPGR)
 
 ## Data Cleaning/Preparation
 
@@ -52,20 +61,33 @@ The datasets includes the following colums:
 
 ## Tabular Overview 
 
-A brief overview of the tabular datasets to be analyzed. The first 5 Colums are displayed.
+A brief overview of the tabular datasets to be analyzed. The first 5 Colums are displayed below. 
 
 |Date|	Customer| Name|	Gender|	Annual Income|	Dealer_Name|	Company|	Model|	Engine|	Transmission|	Color	Price|	Dealer_No| 	Body Style|	Phone|	Dealer_Region|
 |----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|
+1/2/2022|	Geraldine|	Male|	13500|	Buddy Storbeck's Diesel Service Inc|	Ford|	Expedition|	DoubleÃ‚Â Overhead Camshaft|	Auto|	Black|	26000|	06457-3834|	SUV|	8264678|	Middletown|
+1/2/2022|	Gia|	Male|	1480000|	C & M Motors Inc|	Dodge|	Durango|	DoubleÃ‚Â Overhead Camshaft|	Auto|	Black|	19000|	60504-7114|	SUV|	6848189|	Aurora|
+1/2/2022|	Gianna|	Male|	1035000|	Capitol KIA|	Cadillac|	Eldorado|	Overhead Camshaft|	Manual|	Red|	31500|	38701-8047|	Passenger|	7298798|	Greenville|
+1/2/2022|	Giselle|	Male|	13500|	Chrysler of Tri-Cities|	Toyota|	Celica|	Overhead Camshaft|	Manual|	Pale White|	14000|	99301-3882|	SUV|	6257557|	Pasco|
+1/2/2022|	Grace	Male|	1465000|	Chrysler Plymouth|	Acura|	TL|	DoubleÃ‚Â Overhead Camshaft|	Auto|	Red|	24500|	53546-9427|	Hatchback|	7081483|	Janesville|
 
+
+## Analysis Visualisation
+Sales chart of the pre-proessed car sales data;
 
 ## Exploratory Data Analysis
 
 EDA involved exploring the sales data to answer key questions, such as:
-i.	Which color are each genders more likely to purchase . What car color relates to the likelihood of purchase from each gender. 
-ii.	The comparison rate of purchase of transmission types 
-iii.	How this transmission type affects sales among genders.
-iv.	Which geographical location has the highest and lowest sales.  
-v.	What is the popularity of each body style among customers.
+
+  i.	Which color are each genders more likely to purchase . What car color relates to the likelihood of purchase from each gender. 
+  
+  ii.	The comparison rate of purchase of transmission types 
+  
+  iii.	How this transmission type affects sales among genders.
+  
+  iv.	Which geographical location has the highest and lowest sales.  
+
+  v.	What is the popularity of each body style among customers.
 
 ## Key Findings
 The analysis results are summarized as follows:
