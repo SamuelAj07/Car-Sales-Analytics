@@ -4,14 +4,23 @@
 # Table of Content
 
 [Project Overview](#project-overview)
+
 [Data Sources](#data-sources)
+
 [Tool Used](#tool-used)
-[Data Cleaning/Preparation](#data-cleaning/preparation)
+
+[Data Preparation](#data-preparation)
+
 [Data Overview](#data-overview) 
+
 [Tabular Overview](#tabular-overview) 
+
 [Analysis Visualisation](#analysis-visualisation)
+
 [Exploratory Data Analysis](#exploratory-data-analysis)
+
 [Key Findings](#key-findings)
+
 [Recommendations](#recommendations)
 
 ---
@@ -34,7 +43,7 @@ The primary dataset used for this analysis is a Research site "Kaggle.com" and c
 - Data Visualization
   - [View Visuals Here](https://ibb.co/DfqQVPGR)
 
-## Data Cleaning/Preparation
+## Data Preparation
 
 In the initial data pre-processing phase, the following tasks were performed:
 i.	Data loading and inspection.
@@ -69,7 +78,7 @@ A brief overview of the tabular datasets to be analyzed. The first 5 Colums are 
 1/2/2022|	Gia|	Male|	1480000|	C & M Motors Inc|	Dodge|	Durango|	DoubleÃ‚Â Overhead Camshaft|	Auto|	Black|	19000|	60504-7114|	SUV|	6848189|	Aurora|
 1/2/2022|	Gianna|	Male|	1035000|	Capitol KIA|	Cadillac|	Eldorado|	Overhead Camshaft|	Manual|	Red|	31500|	38701-8047|	Passenger|	7298798|	Greenville|
 1/2/2022|	Giselle|	Male|	13500|	Chrysler of Tri-Cities|	Toyota|	Celica|	Overhead Camshaft|	Manual|	Pale White|	14000|	99301-3882|	SUV|	6257557|	Pasco|
-1/2/2022|	Grace	Male|	1465000|	Chrysler Plymouth|	Acura|	TL|	DoubleÃ‚Â Overhead Camshaft|	Auto|	Red|	24500|	53546-9427|	Hatchback|	7081483|	Janesville|
+1/2/2022|	Grace|	Male|	1465000|	Chrysler Plymouth|	Acura|	TL|	DoubleÃ‚Â Overhead Camshaft|	Auto|	Red|	24500|	53546-9427|	Hatchback|	7081483|	Janesville|
 
 
 ## Analysis Visualisation
