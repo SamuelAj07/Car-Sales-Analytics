@@ -1,5 +1,12 @@
 # Car Sales Analysis
 ---
+
+# Table of Content
+
+[Project Overview](#project-overview)
+
+---
+
 ## Project Overview
 
 This Project assesses car sales data of the United State of America to provide insights on sales performance by various attributes such as car colour, region, gender and body style. Using pivot table, i examined data points like total sales by colour and region, transmission, by body style and gender, by gender and transmission, and average sales by body style. This analysis helps to understand key factors drivinng car sales in the USA and identifies patterns across different segments.
@@ -11,10 +18,12 @@ The primary dataset used for this analysis is a Research site "Kaggle.com" and c
 ## Tool Used
 
 1. Excel
-- Data cleaning and structuring
--  Exploring and Analyzing trends in car sales. 
+- Data cleaning and structuring.
+  - [View RawData here](
+  - [View CleansedData here](
+- Exploring and Analyzing trends in car sales. 
 - Data Visualization
-- (View Visuals Here) 
+  - [View Visuals Here](
 
 ## Data Cleaning/Preparation
 
@@ -25,6 +34,7 @@ ii.	Data cleaning and formatting.
 ## Data Overview 
 
 The datasets includes the following colums:
+
 - 	CarID  : Unique identifier for each car sold.
 - 	SaleDate: Date when the sale was completed.
 -  CustomerName: Names of the purchasers of vehicle 
@@ -41,7 +51,12 @@ The datasets includes the following colums:
 -  Region: Geographic location where the car was sold.
 
 ## Tabular Overview 
-A brief overview of the tabular datasets. 
+
+A brief overview of the tabular datasets to be analyzed. The first 5 Colums are displayed.
+
+|Date|	Customer| Name|	Gender|	Annual Income|	Dealer_Name|	Company|	Model|	Engine|	Transmission|	Color	Price|	Dealer_No| 	Body Style|	Phone|	Dealer_Region|
+|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|
+
 
 ## Exploratory Data Analysis
 
@@ -55,8 +70,9 @@ v.	What is the popularity of each body style among customers.
 ## Key Findings
 The analysis results are summarized as follows:
 1.	Certain colors may appeal more to buyers, informing inventory decisions and marketing strategies. 
-2.	The region “AUSTIN” has the highest performing sales and lowest being “MIDDLETOWN”(italize)
-3.	The Auto cars were more leaned towards in purchase by customers of both genders
+2.	The region *AUSTIN* has the highest performing sales and lowest being *MIDDLETOWN*
+3.	The Auto cars are more leaned towards than Manual in purchase by customers of both genders
 4.	 A gradual increase in average sales of body sales inorder SUV to Hatchback to Passenger to Hardtop to Sedan  
 
+## Recommendations
   
