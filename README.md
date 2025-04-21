@@ -82,7 +82,10 @@ A brief overview of the tabular datasets to be analyzed. The first 5 Colums are 
 
 
 ## Analysis Visualisation
-Sales chart of the pre-proessed car sales data;
+Chart Visualisation of the pre-proessed car sales data;
+
+![Screenshot (11)](https://github.com/user-attachments/assets/6f9d4370-e608-438b-b4c9-523e4ecf0c6f)
+
 
 ## Exploratory Data Analysis
 
