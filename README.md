@@ -46,8 +46,10 @@ The primary dataset used for this analysis is a Research site "Kaggle.com" and c
 ## Data Preparation
 
 In the initial data pre-processing phase, the following tasks were performed:
-i.	Data loading and inspection.
-ii.	Data cleaning and formatting.
+
+  i.	Data loading and inspection.
+  
+  ii.	Data cleaning and formatting.
 
 ## Data Overview 
 
