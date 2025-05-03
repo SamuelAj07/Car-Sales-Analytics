@@ -7,7 +7,7 @@
 
 [Data Sources](#data-sources)
 
-[Tools Used](#tool-used)
+[Tools Used](#tools-used)
 
 [Data Preparation](#data-preparation)
 
@@ -94,6 +94,10 @@ C_CND_000005|1/2/2022|	Grace|	Male|	1465000|	Chrysler Plymouth|	Acura|	TL|	Doubl
 Chart Visualisation of the pre-proessed car sales data;
 
 ![Screenshot (40)](https://github.com/user-attachments/assets/34304c3e-d9e2-4148-9019-8a35485b5970)
+
+
+![Screenshot (38)](https://github.com/user-attachments/assets/a650c18d-88cd-47e7-bfda-1470f6c60c56)
+
 
 
 
