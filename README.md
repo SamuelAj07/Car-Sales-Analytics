@@ -7,7 +7,7 @@
 
 [Data Sources](#data-sources)
 
-[Tool Used](#tool-used)
+[Tools Used](#tool-used)
 
 [Data Preparation](#data-preparation)
 
@@ -93,6 +93,7 @@ C_CND_000005|1/2/2022|	Grace|	Male|	1465000|	Chrysler Plymouth|	Acura|	TL|	Doubl
 ## Analysis Visualisation
 Chart Visualisation of the pre-proessed car sales data;
 
+![Screenshot (40)](https://github.com/user-attachments/assets/34304c3e-d9e2-4148-9019-8a35485b5970)
 
 
 
@@ -112,10 +113,56 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ## Key Findings
 The analysis results are summarized as follows:
-1.	Certain colors may appeal more to buyers, informing inventory decisions and marketing strategies. 
+	Revenue by color indicates the pale white outperforming the black and red cars significantly
 2.	The region *AUSTIN* has the highest performing sales and lowest being *MIDDLETOWN*
-3.	The Auto cars are more leaned towards than Manual in purchase by customers of both genders
-4.	 A gradual increase in average sales of body sales inorder SUV to Hatchback to Passenger to Hardtop to Sedan  
+3.	53% of sales come from auto transmission cars compared to 47% for manual 
+4.	Male buyers are about 3 times more than female buyers
+5.	 A gradual increase in average sales of body sales inorder SUV to Hatchback to Passenger to Hardtop to Sedan  
+6. 	SUVs has the lowest average sales price(26, 768) but the highest volume sold(5,039 units for males and 1,335 for females). SUVs and Hatchbacks brings in solid revenue across all region
+7.	The month of December and November clearly has the highest revenue of ~100M and ~97M respectively outperforming other months while January(22M) and February(21M) sales being the lowest
+8.	The Revenue of car design to every geographical area is well differentiated to understand the best category of style for every region 
 
 ## Recommendations
+
+### Transmission
+
+- Prioritize inventory toward Auto Models.
+- Educate customers about the ease and comfort of Auto, especially targeting younger and first-time buyers.
+- Offer driving workshops and trade-in offers for Manual car owners to upgrade, to reduce or avoid overstocks. 
+- Target marketing of manual cars more unto commercial use and budget-conscious buyers
+
+### Body Stlye
+
+ - Upgrades and Upsell SUVs
+- Introduce mid-range or luxury SUVs to raise the average sale price.
+- Body styles of Sedan, Hardtop and Passenger cars should be made more attractive -Customization
+  - Model features should be highlighted to strategically target customers
+ 
+### Colors
+
+ - Stock more vehicles in pale white and black
+ - Implement data driven discount strategies for Red-colored models to optimize inventory balance and reduce holding costs.
+ - Consider introducing light shades of car colors since pale white is successful.
+
+### Genders
+
+ -Design models with female drivers in mind and safety-focused advertisements. 
+ - More marketing campaigns should be targeted towards male preferences (e.g power, performance, durability)
+
+### Region
+
+- Expand Dealership Presence, Advertisement and Resources in Austin, Janesville and Scottsdale – Showroom expansions. 
+- Reassess Middletown, Pasco, Greenville- Wrong car models?, High Pricing?, Poor Customer Service?. Introduce better-trained sales teams and offer location based promos.
+
+### Year
+
+- Increase ad spends in Q4
+- Plan inventory to meet the surge: Stock SUVs, Hatchbacks, Pale White and Black AUTO Cars ahead of time.
+
+
+
+
+
+
+
   
