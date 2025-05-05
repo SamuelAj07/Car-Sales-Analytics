@@ -60,7 +60,7 @@ In the initial data pre-processing phase, the following tasks were performed:
 
 ## Data Overview 
 
-The datasets includes the following columns:
+The dataset includes the following columns:
 
 - 	CarID  : Unique identifier for each car sold.
 - 	SaleDate: Date when the sale was completed.
@@ -114,6 +114,8 @@ EDA involved exploring the sales data to answer key questions, such as:
   iv.	Which geographical location has the highest and lowest sales.  
 
   v.	What is the popularity of each body style among customers.
+
+  vi. What is the monthly performance trend in revenue. 
 
 ## Key Findings
 The analysis results are summarized as follows:
