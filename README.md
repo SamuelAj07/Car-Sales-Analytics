@@ -142,7 +142,7 @@ The analysis results are summarized as follows:
  - Upgrades and Upsell SUVs
 - Introduce mid-range or luxury SUVs to raise the average sale price.
 - Body styles of Sedan, Hardtop and Passenger cars should be made more attractive -Customization
-  - Model features should be highlighted to strategically target customers
+- Model features should be highlighted to strategically target customers
  
 ### Colors
 
