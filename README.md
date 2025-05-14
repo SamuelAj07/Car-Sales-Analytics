@@ -171,7 +171,7 @@ The analysis results are summarized as follows:
 - Expand Dealership Presence, Advertisement and Resources in Austin, Janesville and Scottsdale – Showroom expansions. 
 - Reassess Middletown, Pasco, Greenville- Wrong car models?, High Pricing?, Poor Customer Service?. Introduce better-trained sales teams and offer location based promos.
 
-### Year
+### MONTHLY Trend
 
 - Increase ad spends in Q4
 - Plan inventory to meet the surge: Stock SUVs, Hatchbacks, Pale White and Black AUTO Cars ahead of time.
