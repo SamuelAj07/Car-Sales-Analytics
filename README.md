@@ -119,14 +119,22 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ## Key Findings
 The analysis results are summarized as follows:
-	Revenue by color indicates the pale white outperforming the black and red cars significantly
-2.	The region *AUSTIN* has the highest performing sales and lowest being *MIDDLETOWN*
-3.	53% of sales come from auto transmission cars compared to 47% for manual 
+1.	Revenue by color indicates the pale white outperforming the black and red cars significantly
+	
+2.	The region *AUSTIN* has the highest performing sales and lowest sales being *MIDDLETOWN*
+	
+3.	53% of sales come from auto transmission cars compared to 47% for manual
+	
 4.	Male buyers are about 3 times more than female buyers
-5.	 A gradual increase in average sales of body sales inorder SUV to Hatchback to Passenger to Hardtop to Sedan  
-6. 	SUVs has the lowest average sales price(26, 768) but the highest volume sold(5,039 units for males and 1,335 for females). SUVs and Hatchbacks brings in solid revenue across all region
+	
+5.	 A gradual increase in average sales of body sales inorder SUV to Hatchback to Passenger to Hardtop to Sedan
+	 
+6. SUVs has the lowest average sales price(26, 768) but the highest volume sold(5,039 units for males and 1,335 for females). SUVs and Hatchbacks brings in solid revenue across all region
+ 	
 7.	The month of December and November clearly has the highest revenue of ~100M and ~97M respectively outperforming other months while January(22M) and February(21M) sales being the lowest
-8.	The Revenue of car design to every geographical area is well differentiated to understand the best category of style for every region 
+	
+8.	The Revenue of car design to every geographical area is well differentiated to understand the best category of style for every region
+    
 
 ## Recommendations
 
