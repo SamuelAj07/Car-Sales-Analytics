@@ -47,7 +47,11 @@ The primary dataset used for this analysis is a Research site "Kaggle.com" and c
   - Data ingestion: Data is get as an excel file
 	- For data transformation/manipulation. [View here](https://ibb.co/G44FTRVN)
 	- For Dashoard Creation. [Visual here](https://ibb.co/Tx3xxd8M) 
-	- For visuals that present data insights in a user-friendly format. 
+	- For visuals that present data insights in a user-friendly format.
+
+3. SQL
+- Data Extraction and Retrieval
+     	
 
 
 ## Data Preparation
@@ -90,17 +94,6 @@ C_CND_000004|1/2/2022|	Giselle|	Male|	13500|	Chrysler of Tri-Cities|	Toyota|	Cel
 C_CND_000005|1/2/2022|	Grace|	Male|	1465000|	Chrysler Plymouth|	Acura|	TL|	DoubleÃ‚Â Overhead Camshaft|	Auto|	Red|	24500|	53546-9427|	Hatchback|	7081483|	Janesville|
 
 
-## Analysis Visualisation
-Chart Visualisation of the pre-proessed car sales data;
-
-![Screenshot (40)](https://github.com/user-attachments/assets/34304c3e-d9e2-4148-9019-8a35485b5970)
-
-
-![Screenshot (38)](https://github.com/user-attachments/assets/a650c18d-88cd-47e7-bfda-1470f6c60c56)
-
-
-
-
 ## Exploratory Data Analysis
 
 EDA involved exploring the sales data to answer key questions, such as:
@@ -116,6 +109,19 @@ EDA involved exploring the sales data to answer key questions, such as:
   v.	What is the popularity of each body style among customers.
 
   vi. What is the monthly performance trend in revenue. 
+
+
+## Analysis Visualisation
+Chart Visualisation of the pre-proessed car sales data;
+
+![Screenshot (40)](https://github.com/user-attachments/assets/34304c3e-d9e2-4148-9019-8a35485b5970)
+
+
+![Screenshot (38)](https://github.com/user-attachments/assets/a650c18d-88cd-47e7-bfda-1470f6c60c56)
+
+### Queries
+
+
 
 ## Key Findings
 The analysis results are summarized as follows:
