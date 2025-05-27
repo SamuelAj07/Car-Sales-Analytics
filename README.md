@@ -15,9 +15,9 @@
 
 [Tabular Overview](#tabular-overview) 
 
-[Analysis Visualisation](#analysis-visualisation)
-
 [Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Analysis Visualisation](#analysis-visualisation)
 
 [Key Findings](#key-findings)
 
