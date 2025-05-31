@@ -122,7 +122,8 @@ Chart Visualisation of the pre-proessed car sales data;
 ![Screenshot (40)](https://github.com/user-attachments/assets/34304c3e-d9e2-4148-9019-8a35485b5970)
 
 
-![Screenshot (38)](https://github.com/user-attachments/assets/a650c18d-88cd-47e7-bfda-1470f6c60c56)
+![Powerbi](https://github.com/user-attachments/assets/5a45c1ce-fc17-4e4b-bdf0-3c36bb3839cc)
+
 
 ### Queries
 
