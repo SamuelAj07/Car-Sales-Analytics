@@ -41,12 +41,12 @@ The primary dataset used for this analysis is a Research site "Kaggle.com" and c
   - [View CleansedData here](https://ibb.co/NnSmpnYw)
 - Exploring and Analyzing trends in car sales. 
 - Data Visualization
-  - [View Visuals Here](https://ibb.co/TBY5H8gV)
+
 
 2.	PowerBI 
   - Data ingestion: Data is get as an excel file
 	- For data transformation/manipulation. [View here](https://ibb.co/G44FTRVN)
-	- For Dashoard Creation. [Visual here](https://ibb.co/Tx3xxd8M) 
+	- For Dashoard Creation.  
 	- For visuals that present data insights in a user-friendly format.
 
 3. SQL
