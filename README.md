@@ -61,6 +61,11 @@ In the initial data pre-processing phase, the following tasks were performed:
   i.	Data loading and inspection.
   
   ii.	Data cleaning and formatting.
+	
+ - Data transformation of gender column from text type to number type for possible aggregated calculation
+   
+ - Data manipulation to tabulize descriptive data (Year, Month number, Month name)
+	- [Table here](https://ibb.co/MkVKd3jW) 	
 
 ## Data Overview 
 
@@ -121,6 +126,24 @@ Chart Visualisation of the pre-proessed car sales data;
 
 ### Queries
 
+```Sql
+ ---The Most Expensive car---
+SELECT TOP 1 * FROM [dbo].[Car_datasets ]
+ORDER BY price DESC;
+```
+
+```Sql
+	---The Least Expensive car---
+SELECT * FROM [dbo].[Car_datasets ]
+WHERE price = (SELECT MIN(Price) from  [dbo].[Car_datasets ]);
+```
+
+```Sql
+	---Sales for year 2022 and 2023---
+SELECT YEAR(Date) AS SaleYear, SUM(price) AS Totalsales FROM [dbo].[Car_datasets ]
+WHERE YEAR(Date) IN (2022, 2023)
+GROUP BY YEAR(Date);
+```
 
 
 ## Key Findings
@@ -177,7 +200,7 @@ The analysis results are summarized as follows:
 - Expand Dealership Presence, Advertisement and Resources in Austin, Janesville and Scottsdale – Showroom expansions. 
 - Reassess Middletown, Pasco, Greenville- Wrong car models?, High Pricing?, Poor Customer Service?. Introduce better-trained sales teams and offer location based promos.
 
-### MONTHLY Trend
+### Monthly Trend
 
 - Increase ad spends in Q4
 - Plan inventory to meet the surge: Stock SUVs, Hatchbacks, Pale White and Black AUTO Cars ahead of time.
