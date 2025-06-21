@@ -117,7 +117,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 
 ## Analysis Visualisation
-Chart Visualisation of the pre-proessed car sales data;
+Chart Analysis
 
 ![Screenshot (40)](https://github.com/user-attachments/assets/34304c3e-d9e2-4148-9019-8a35485b5970)
 
