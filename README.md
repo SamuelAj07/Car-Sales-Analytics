@@ -86,6 +86,8 @@ The dataset includes the following columns:
 -  BodyStyle: The shape, design and structure of car's exterior 
 -  Region: Geographic location where the car was sold.
 
+Total Data Records is 23,906
+
 ## Tabular Overview 
 
 A brief overview of the tabular datasets to be analyzed. The first 5 Colums are displayed below. 
