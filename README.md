@@ -90,7 +90,7 @@ Total Data Records is 23,906
 
 ## Tabular Overview 
 
-A brief overview of the tabular datasets to be analyzed. The first 5 Colums are displayed below. 
+A brief overview of the tabular datasets to be analyzed. The first 5 Columns are displayed below. 
 
 Car ID|Date|	Customer| Name|	Gender|	Annual Income|	Dealer_Name|	Company|	Model|	Engine|	Transmission|	Color	Price|	Dealer_No| 	Body Style|	Phone|	Dealer_Region|
 |-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|-----|----|-----|-----|
